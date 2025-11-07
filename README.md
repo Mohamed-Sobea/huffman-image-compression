@@ -30,23 +30,8 @@ This approach minimizes the total number of bits needed to represent data, achie
 
 ## Project Structure
 
-Huffman-Image-Compression/
-│
-├── data/
-│ ├── input.png # Original grayscale image
-│ ├── decompressed.png # Output after decompression
-│
-├── src/
-│ ├── compressor/
-│ │ └── huffman.js # Huffman algorithm implementation
-│ ├── image/
-│ │ ├── reader.js # Reads grayscale images
-│ │ └── writer.js # Writes grayscale image
-│ └── index.js 
-│
-├── package.json
-├── package-lock.json
-└── .gitignore
+<img width="537" height="785" alt="image" src="https://github.com/user-attachments/assets/0d942f45-ede8-479d-84c1-1a5bdcb05440" />
+
 
 
 ## Example output:
